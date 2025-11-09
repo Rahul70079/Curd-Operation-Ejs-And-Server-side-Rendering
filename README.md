@@ -1,5 +1,8 @@
+
 A simple Node.js application demonstrating CRUD (Create, Read, Update, Delete) operations using Express.js, MongoDB, and EJS templates with Server-Side Rendering (SSR).
+
 📌 Features
+
 Create: Add new records via form submission.
 
 Read: Display stored data dynamically using EJS templates.
