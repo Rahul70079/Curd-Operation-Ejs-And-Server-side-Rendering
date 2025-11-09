@@ -13,6 +13,7 @@ Delete: Remove records from the database.
 
 Server-Side Rendering: All pages rendered on the server with EJS.
 
+
 🛠️ Tech Stack
 
 Backend: Node.js, Express.js
